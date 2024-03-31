@@ -52,9 +52,14 @@
 
 </details>
 
+---
+
 <details>
     <summary>:zap: Language Card</summary>
+    <!--START_SECTION:activity-->
     <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellhtet-ux" />
+    <!--END_SECTION:activity-->
+    
 </details>
 
 <details>
