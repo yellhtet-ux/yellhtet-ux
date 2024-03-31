@@ -54,7 +54,7 @@
 
 <details>
     <summary>:zap: Language Card</summary>
-    <img align="left" alt="Andrew's GitHub Stats" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellhtet-ux)](https://github.com/yellhtet-ux/github-readme-stats)" />
+    <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellhtet-ux" />
 </details>
 
 <details>
