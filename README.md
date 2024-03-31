@@ -19,6 +19,7 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/andrew-hardin-22420spo/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/andrew-hardin-22420spo/#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
