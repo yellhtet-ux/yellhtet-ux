@@ -46,12 +46,12 @@
 
 </details>
 
----
+<br />
+<br />
+<br />
+<br />
 
-<br />
-<br />
-<br />
-<br />
+---
 
 <details>
     <summary>:zap: Language Card</summary>
