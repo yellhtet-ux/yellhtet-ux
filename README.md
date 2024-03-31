@@ -39,30 +39,17 @@
 
 ---
 
+## Projects:
+
+1. Dzay (Digital Zay)
+
+---
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yellhtet-ux&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
-</details>
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
----
-
-<details>
-    <summary>:zap: Language Card</summary>
-    <!--START_SECTION:activity-->
-    <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellhtet-ux" />
-    <!--END_SECTION:activity-->
-    
 </details>
 
 [website]: https://codeSTACKr.com
@@ -75,3 +62,11 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+<!--- Language Card ------>
+
+<!-- <details>
+    <summary>:zap: Language Card</summary>
+    <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yellhtet-ux" />
+
+</details>  -->
