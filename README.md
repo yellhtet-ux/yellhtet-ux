@@ -1,6 +1,6 @@
 # Hi there, I'm Andrew Hardin aka Ye Andrew Htet 👋
 
-[![Linkin Follow](https://img.shields.io/badge/linkin%2Ffollow%2FcodeSTACKr%3Fcolor%3D1DA1F2%26logo%3Dtwitter%26style%3Dfor-the-badge)](https://www.linkedin.com/in/andrew-hardin-22420spo/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheWhittier)
 
 ## I'm a Minimalist and Developer!!!
 
