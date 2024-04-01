@@ -31,7 +31,7 @@
 <img align="left" alt="Realm" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/realm/realm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Source Tree" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sourcetree/sourcetree-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Vapor" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcPLcgMoeWIc9iELWXuMmiG_tPh0py3dti9HnpvrcxNQ&s" style="padding-right:10px;" />
+<img align="left" alt="Vapor" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyYp1fISe9SFJal_oerVBlkZUqFP05BmcWnBeyr6gtA&s" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
