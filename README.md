@@ -26,12 +26,13 @@
 <img align="left" alt="Swift Lang" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/swift/swift-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Xcode IDE" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Apollo" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Apollo.svg" style="padding-right:10px;" />
 <img align="left" alt="GraphQL" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/graphql/graphql-plain-wordmark.svg" style="padding-right:10px;" />
 <img align="left" alt="JSON" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/json/json-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Realm" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/realm/realm-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Source Tree" width="26px" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sourcetree/sourcetree-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Vapor" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeyYp1fISe9SFJal_oerVBlkZUqFP05BmcWnBeyr6gtA&s" style="padding-right:10px;" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" style="padding-right:10px;" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />
 <img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />
 
