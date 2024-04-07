@@ -4,10 +4,10 @@
 
 ## I'm a Minimalist and Developer!!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- ✏️ I’m currently learning iOS Development using Swift
+- 🌱 I’m looking to work freelancing.
 - 🥅 2024 Goals: Learn more about Swift DSA and SwiftUI
-- ⚡ Fun fact: I love to watch Dramas and play guitar
+- ⚡ Fun fact: I love to watch dramas and animes.
 
 ### Connect with me:
 
@@ -42,7 +42,7 @@
 
 ## Projects:
 
-### 1.Dzay (Digital Zay)
+### 1. Dzay (Digital Zay)
 
 Dzay (Digital Zay) is an innovative iOS e-commerce application designed to revolutionize the digital shopping experience.This is my very first iOS app where I learned from this project are expertise in Swift programming, user interface design, and integrating third-party APIs.
 
@@ -76,6 +76,8 @@ DailyHRMS Version 3 is a powerful in-house iOS application designed to streamlin
 
 Here is the app link - https://apps.apple.com/us/app/dailyhrms/id1507119086
 
+### 3. Yoma Connect
+
 ---
 
 <details>
@@ -84,17 +86,6 @@ Here is the app link - https://apps.apple.com/us/app/dailyhrms/id1507119086
   <img align="left" alt="Andrew's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yellhtet-ux&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
 
 </details>
-
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
 <!--- Language Card ------>
 
