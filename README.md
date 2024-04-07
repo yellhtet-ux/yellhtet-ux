@@ -48,19 +48,31 @@ Dzay (Digital Zay) is an innovative iOS e-commerce application designed to revol
 
 ** Keys Features **
 
-- Advanced Filtering: Implemented a comprehensive filtering system allowing users to sort digital products by price and alphabetically, enhancing the browsing experience.
+- 🔍 Advanced Filtering: Implemented a comprehensive filtering system allowing users to sort digital products by price and alphabetically, enhancing the browsing experience.
 
-- Secure Payment Integration: Integrated in-app payment gateways including KPay, AYA, CB, and Wavemoney, ensuring secure transactions for users.
+- 🔒 Secure Payment Integration: Integrated in-app payment gateways including KPay, AYA, CB, and Wavemoney, ensuring secure transactions for users.
 
-- Real-time Order Tracking: Developed a robust order tracking feature enabling users to monitor the status of their deliveries from placement to arrival.
+- 👣 Real-time Order Tracking: Developed a robust order tracking feature enabling users to monitor the status of their deliveries from placement to arrival.
 
-- Wishlist Functionality: Designed and implemented a wishlist feature allowing users to save favorite products for future purchase, enhancing user engagement and retention.
+- 👀 Wishlist Functionality: Designed and implemented a wishlist feature allowing users to save favorite products for future purchase, enhancing user engagement and retention.
 
-- User Flexibility: Enabled both guest and registered user modes, providing flexibility and convenience for all types of users.
+- 💪🏻 User Flexibility: Enabled both guest and registered user modes, providing flexibility and convenience for all types of users.
 
 Here is the applink - https://apps.apple.com/us/app/digital-zay/id6463846436
 
-### 2. DailyHRMS
+### 2. DailyHRMS (Version 3.0)
+
+DailyHRMS Version 3 is a powerful in-house iOS application designed to streamline employee management processes within organizations.
+
+** Keys Features **
+
+- 📍 Check In/Check Out with Location Tracking: Implemented a robust check-in/check-out system allowing employees to log their attendance while enabling administrators to track employee locations.
+
+- ⚙️ Performance Analytics and Survey System: Developed an intuitive performance analytic and survey system to provide valuable insights into employee performance and engagement.
+
+- 🔔 Push Notification: Integrated push notification functionality to facilitate real-time communication between administrators and employees, ensuring timely updates on important announcements, reminders, and notifications.
+
+- 📌 Leave and Overtime Requests: Designed and implemented a leave and overtime request feature, enabling employees to submit requests directly through the app for streamlined approval processes.
 
 ---
 
