@@ -58,7 +58,7 @@ Dzay (Digital Zay) is an innovative iOS e-commerce application designed to revol
 
 - 💪🏻 User Flexibility: Enabled both guest and registered user modes, providing flexibility and convenience for all types of users.
 
-Here is the applink - https://apps.apple.com/us/app/digital-zay/id6463846436
+Here is the app link - https://apps.apple.com/us/app/digital-zay/id6463846436
 
 ### 2. DailyHRMS (Version 3.0)
 
@@ -73,6 +73,8 @@ DailyHRMS Version 3 is a powerful in-house iOS application designed to streamlin
 - 🔔 Push Notification: Integrated push notification functionality to facilitate real-time communication between administrators and employees, ensuring timely updates on important announcements, reminders, and notifications.
 
 - 📌 Leave and Overtime Requests: Designed and implemented a leave and overtime request feature, enabling employees to submit requests directly through the app for streamlined approval processes.
+
+Here is the app link - https://apps.apple.com/us/app/dailyhrms/id1507119086
 
 ---
 
