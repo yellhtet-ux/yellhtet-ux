@@ -46,7 +46,7 @@
 
 Dzay (Digital Zay) is an innovative iOS e-commerce application designed to revolutionize the digital shopping experience.This is my very first iOS app where I learned from this project are expertise in Swift programming, user interface design, and integrating third-party APIs.
 
-** Keys Features **
+## ** Keys Features **
 
 - 🔍 Advanced Filtering: Implemented a comprehensive filtering system allowing users to sort digital products by price and alphabetically, enhancing the browsing experience.
 
@@ -64,7 +64,7 @@ Here is the app link - https://apps.apple.com/us/app/digital-zay/id6463846436
 
 DailyHRMS Version 3 is a powerful in-house iOS application designed to streamline employee management processes within organizations.
 
-** Keys Features **
+## ** Keys Features **
 
 - 📍 Check In/Check Out with Location Tracking: Implemented a robust check-in/check-out system allowing employees to log their attendance while enabling administrators to track employee locations.
 
