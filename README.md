@@ -76,7 +76,8 @@ DailyHRMS Version 3 is a powerful in-house iOS application designed to streamlin
 
 Here is the app link - https://apps.apple.com/us/app/dailyhrms/id1507119086
 
-## 3. Yoma Connect
+## 3. Star City Living App(Maintaining and Developing Additional Features)
+
 
 ---
 
