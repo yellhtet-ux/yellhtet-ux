@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew Hardin aka Ye Andrew Htet 👋
+# Hi there, I'm Ye Andrew Htet 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrewhardin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheWhittier)
 
