@@ -2,11 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrewhardin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheWhittier)
 
-## I'm a Minimalist and Developer!!!
+## I'm just Swift aficionado and iOS Developer!!!
 
-- ✏️ I’m currently learning iOS Development using Swift
 - 🌱 I’m looking to work freelancing.
-- 🥅 2024 Goals: Learn more about Swift DSA and SwiftUI
+- 🥅 2025 Goals: Learn more about Swift DSA and SwiftUI
 - ⚡ Fun fact: I love to watch dramas and Sci-Fi.
 
 ### Connect with me:
