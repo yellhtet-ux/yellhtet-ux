@@ -2,10 +2,10 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrewhardin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/TheWhittier)
 
-## I'm just Swift aficionado and iOS Developer!!!
+## I'm just Flutter and Swift aficionado and I'm currently working as iOS Developer!!!
 
 - 🌱 I’m looking to work freelancing.
-- 🥅 2025 Goals: Learn more about Swift DSA and SwiftUI
+- 🥅 2026 Goals: Learn more about Swift DSA, Flutter and SwiftUI
 - ⚡ Fun fact: I love to watch dramas and Sci-Fi.
 
 ### Connect with me:
